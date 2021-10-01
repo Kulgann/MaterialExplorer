@@ -1,0 +1,19 @@
+{
+  "name": "com.incineration.MaterialExplorer",
+  "version": "0.1.0",
+  "displayName": "Material Explorer",
+  "description": "A tool to quickly view all Materials in a scene",
+  "unity": "2020.2",
+  "unityRelease": "0f1",
+ 
+ "keywords": [
+    "tools",
+    "materials",
+    "explore"
+  ],
+  "author": {
+    "name": "Incineration Productions",
+    "email": "support@incineration.games",
+    "url": "https://www.incineration.games"
+  }
+}
