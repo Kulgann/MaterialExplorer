@@ -1,12 +1,12 @@
 {
-  "name": "com.incineration.MaterialExplorer",
+  "name": "com.incineration.materialexplorer",
   "version": "0.1.0",
   "displayName": "Material Explorer",
   "description": "A tool to quickly view all Materials in a scene",
   "unity": "2020.2",
   "unityRelease": "0f1",
- 
- "keywords": [
+
+  "keywords": [
     "tools",
     "materials",
     "explore"
@@ -15,5 +15,10 @@
     "name": "Incineration Productions",
     "email": "support@incineration.games",
     "url": "https://www.incineration.games"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/Kulgann/MaterialExplorer.git"
+    
   }
 }
